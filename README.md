@@ -20,8 +20,12 @@ Note: Feel free to edit the script and select a different job platform, but make
 
 
 ## Copy the links of the pages and paste them into the urls.txt file, one link per line
+- The more words you add to the urls.txt file, the more accurate the classification of the most commonly used words will become (although it may result in heavier processing).
+- Since we are working with numerous websites, the processing time will be influenced by your local internet speed.
 
-![image](https://github.com/LuizSSenko/Agrobase.com.br-Word_Counter/assets/140913035/e1dd3b90-7f64-4839-aa3b-4d103292cd4f)
+![image](https://github.com/LuizSSenko/Word-Counter/assets/140913035/4cd548eb-e17d-4742-b3c1-179ab2c29b43)
+
+
 
 ## Run the script
 - To get started, you'll need to specify the HTML tags that mark the beginning and end of the website section you want to search within, so that irrelevant data can be excluded.
@@ -37,18 +41,23 @@ Note: Feel free to edit the script and select a different job platform, but make
 
 ![image](https://github.com/LuizSSenko/Word-Counter/assets/140913035/02a20f4a-3514-4fb8-a013-29c6b1420dae)
 
-- An interactive graph will be generated (the example shown includes more than 20 of the most frequently used words).
+- An interactive graph will be generated (the example shown includes 50 of the most frequently used words).
 
-![Figure_1](https://github.com/LuizSSenko/Agrobase.com.br-Word_Counter/assets/140913035/89e5eda5-cca8-4dc3-9ec9-7694583fe203)
+![Figure_1](https://github.com/LuizSSenko/Word-Counter/assets/140913035/419018de-15f3-40cc-8636-084c58ed1b7e)
+
 
 ## Analyzing the Results
 When examining the results, you should consider which of these words could be "keywords" in candidate filtering. In this case, I believe they might include:
-- Produtos
 - Vendas
-- Clientes
-- Relatórios
+- clientes
+- Produtos
+- Gestão
+- informações
+- Soja
 - Comercial
 - Desenvolvimento
 - Negociação.....
 
-### Now, you can edit your resume while incorporating these keywords into it (but remember, no exaggerations or falsehoods!).
+## Now, you can edit your resume while incorporating these keywords into it (but remember, no exaggerations or falsehoods!).
+- I edited each experience of my resume in order to use the maximum number of the commom words as possible.
+- Don't worry too much if your text gets too verbose; it won't be read by a human anyway.
